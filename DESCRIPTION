@@ -1,0 +1,12 @@
+Package: testPkg
+Type: Package
+Title: Just a test for github
+Version: 0.1.0
+Authors@R: as.person(c(
+    "Andrew Singleton <andrewts@met.no> [aut, cre]"
+  ))
+Description: This package does nothing useful
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
