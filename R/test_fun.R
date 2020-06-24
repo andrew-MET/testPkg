@@ -26,6 +26,7 @@ test_fun <- function(x) {
   }
 
   x <- paste(x, collapse = ", ")
+
   message("You entered '", x, "'.")
 
   x
